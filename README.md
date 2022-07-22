@@ -1,3 +1,3 @@
-# CIT 49900 Relational Databases
+# CIT 49900 Relational Databases assignment
 
 Chandler Talbot
